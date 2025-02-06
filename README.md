@@ -5,7 +5,11 @@
 - [Take a Look :mag_right:](#take-a-look-mag_right)
 - [Features :sparkles:](#features-sparkles)
 - [Project Structure :card_index_dividers:](#project-structure-card_index_dividers)
- 
+- [Setup and Installation :desktop_computer:](#setup-and-installation-desktop_computer)
+- [Prerequisites :clipboard:](#prerequisites-clipboard)
+- [Installing & Running :gear:](#installing--running-gear)
+- [License :balance_scale:](#license-balance_scale)
+  
 ## Overview :open_book:
 *Cartel* is a versatile B2B platform designed for everyone! This web application is built using Jakarta Server Pages (JSP), previously known as Java Server Pages, and follows a robust 3-tier architecture:  
   
@@ -94,3 +98,35 @@ The platform offers a wide range of features and functionalities, which will be 
  ├── reviewController.jsp
  └── web.xml
 </pre>
+  
+  
+## Setup and Installation :desktop_computer:
+
+### Prerequisites :clipboard:
+- **Java JDK**
+- **Apache Tomcat**
+- **MySQL**
+
+### Installing & Running :gear:
+1) Clone the repository
+```
+git clone git@github.com:gregalexan/cartel.git
+```
+2) Create the database using the files
+```
+Data.sql
+database.sql
+```
+4) Update the with your database credentials
+```
+DBUtil.java
+```
+6) Copy the folder and upload it on Tomcat inside
+```
+webapps
+```
+8) Run Tomcat
+9) The web application is now running on http://localhost:8080
+
+## License :balance_scale:
+The project is licensed under the terms of ***Apache License version 2.0***
