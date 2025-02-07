@@ -25,13 +25,13 @@ The platform offers a wide range of features and functionalities, which will be 
 **You can check the project live [here](http://ism.dmst.aueb.gr/ismgroup58)**  
 
 ### Home Page :house: 
-![Cartel Home Page](https://github.com/gregalexan/cartel/blob/main/images/homepage.png)  
+![Cartel Home Page](https://github.com/gregalexan/Cartel_B2B_Eshop/blob/main/images/homepage.png)  
 
 ## Features :sparkles:
 ### Use Case Diagram:  
-![Cartel Use Case Diagram](https://github.com/gregalexan/cartel/blob/main/images/useCaseDiagram.png)
+![Cartel Use Case Diagram](https://github.com/gregalexan/Cartel_B2B_Eshop/blob/main/images/useCaseDiagram.png)
 ### Component Diagram:   
-![Cartel Component Diagram](https://github.com/gregalexan/cartel/blob/main/images/componentDiagram.png)
+![Cartel Component Diagram](https://github.com/gregalexan/Cartel_B2B_Eshop/blob/main/images/componentDiagram.png)
 
     
 ## Project Structure :card_index_dividers:  
